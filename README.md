@@ -1,3 +1,5 @@
 # Trends of Immigrants' Native Consumption Adoption
 TINCA is a methodology aimed at discovering Trends of Immigrants' Native Consumption Adoption by using information from retail data and from the country of birth of the customers. TINCA is based on the Native Consumption Adoption (NCA) that measures whether immigrants adopt consumption habits similar to those of natives. Given a temporal granularity, the shopping behavior of a customer is modeled as a vector containing information about shopping habits with respect to different food categories. Then, the knowledge of the country of birth is exploited to build a machine learning classifier able to distinguish between natives and immigrants. The estimatation of the NCA for the immigrants over time allows to identify different trends of adoptions of the native' shopping consumption.
 
+In this repository we provide the source code of TINCA used in
+> Riccardo Guidotti, Mirco Nanni, Fosca Giannotti, Dino Pedreschi, Simone Bertoli, Biagio Speciale, Hillel Rapoport *"Measuring Immigrants Adoption of Natives Shopping Consumption with Machine Learning"*, ECML-PKDD 2020, Ghent, Belgium
